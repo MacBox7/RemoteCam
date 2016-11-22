@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<LinearLayout tools:context=".MainActivity"
+    android:paddingTop="0dp"
+    android:paddingRight="0dp"
+    android:paddingLeft="0dp"
+    android:paddingBottom="0dp" android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/frame">
+        <VideoView android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:id="@+id/videoView"
+            android:layout_gravity="center_horizontal"/>
+    </FrameLayout>
+</LinearLayout>

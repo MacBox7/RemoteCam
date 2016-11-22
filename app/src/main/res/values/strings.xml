@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RemoteCam</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_available_connections">AvailableConnections</string>
+    <string name="title_activity_live_feed">liveFeed</string>
+    <string name="title_activity_share">Share</string>
+    <string name="title_activity_shareselect">shareselect</string>
+    <string name="title_activity_camera_server">CameraServer</string>
+    <string name="title_activity_splash">Splash</string>
+</resources>
